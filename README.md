@@ -69,6 +69,10 @@
             width="40" height="40" />
     </a>
     <a target="_blank" rel="noreferrer">
+        <img src="https://trino.io/assets/images/trino-logo/trino-ko_tiny-alt.svg" alt="trino"
+            width="40" height="40 />
+    </a>
+    <a target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka"
             width="40" height="40" />
     </a>
