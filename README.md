@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Cheng" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Max-Cheng&row=2&column=3&title=Commit,PR,Stars,Followers,Issue,Repo&theme=oldie" />
 </p>
 
 <p align="center">
