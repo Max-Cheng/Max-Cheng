@@ -1,7 +1,7 @@
 ## Hi there, I'm Co1a.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Cheng" />
+  <img src="https://streak-stats.demolab.com?user=Max-Cheng" />
 </p>
 
 <p align="center">
