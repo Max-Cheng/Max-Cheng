@@ -1,9 +1,10 @@
 ## Hi there, I'm Co1a.
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Max-Cheng" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=max-cheng&color=blueviolet" />
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Max-Cheng/Max-Cheng/output/github-contribution-grid-snake.svg" />
 </p>
